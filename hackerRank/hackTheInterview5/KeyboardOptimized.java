@@ -4,10 +4,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 
-public class KeyboardMayank {
+public class KeyboardOptimized {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String str = "*He<*lo>w#5_#1_<_";
 		// _loHew_1_
 		char ch[] = str.toCharArray();

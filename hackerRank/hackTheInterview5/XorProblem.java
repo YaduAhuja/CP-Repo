@@ -18,7 +18,6 @@ public class XorProblem {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(maxXorValue("01010", 1));
 	}
 
