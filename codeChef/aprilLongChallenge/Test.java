@@ -1,7 +1,12 @@
 package codeChef.aprilLongChallenge;
 
+import java.util.Scanner;
+
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		Scanner sc = new Scanner(System.in);
+		String s = sc.nextLine();
+		sc.close();
+		System.out.println(s);
 	}
 }
