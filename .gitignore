@@ -3,4 +3,4 @@
 
 
 # txt Files Excluder
-*/**/*.txt
+**/**/*.txt
