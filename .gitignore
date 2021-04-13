@@ -1,1 +1,6 @@
+# class Files Excluder
 /**/*.class
+
+
+# txt Files Excluder
+/**/*.txt
