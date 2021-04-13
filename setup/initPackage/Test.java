@@ -1,4 +1,4 @@
-package setup.aprilLongChallenge;
+package setup.initPackage;
 
 import java.util.Scanner;
 
