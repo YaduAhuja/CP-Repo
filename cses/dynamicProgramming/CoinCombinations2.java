@@ -2,6 +2,7 @@
  *  Problem Link : https://cses.fi/problemset/task/1636
  * 	Runtime : 0.34s
  */
+
 package cses.dynamicProgramming;
 
 import java.io.BufferedReader;
