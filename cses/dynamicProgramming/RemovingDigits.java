@@ -6,17 +6,13 @@
 package cses.dynamicProgramming;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class RemovingDigits {
-	static HashMap<Integer, Integer> dpMap; 
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		int inp = sc.nextInt();
 		sc.close();
-		dpMap = new HashMap<>();
-		dpMap.put(0, 0);
 		System.out.println(getSteps(inp));
 	
 	}
