@@ -20,5 +20,4 @@ public class XorProblem {
 	public static void main(String[] args) {
 		System.out.println(maxXorValue("01010", 1));
 	}
-
 }
