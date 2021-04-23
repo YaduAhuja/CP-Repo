@@ -1,3 +1,6 @@
+/**
+ *  problem link:https://www.hackerrank.com/challenges/arrays-ds/problem
+ */
 package hackerRank.problemSolvingImplementation;
 import java.util.*;
 
