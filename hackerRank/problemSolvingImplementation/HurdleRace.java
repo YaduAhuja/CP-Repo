@@ -14,7 +14,6 @@ public class HurdleRace {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] h = { 1, 6, 3, 5, 2 };
 		int k = 7;
 

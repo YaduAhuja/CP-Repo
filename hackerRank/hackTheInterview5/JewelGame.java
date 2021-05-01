@@ -34,11 +34,8 @@ public class JewelGame {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		String string = "abcddcbd";
 		System.out.println(getMaxScore(string));
-
 		System.out.println(string);
 	}
 

@@ -47,7 +47,6 @@ public class AppendAndDelete {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(appendAndDelete("Ashley", "Asb", 6));
 	}
 

@@ -23,7 +23,6 @@ public class MinimumDistance {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int d[] = { 7, 1, 3, 4, 1, 7 };
 
 		System.out.println(minimumDistances(d));

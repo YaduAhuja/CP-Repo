@@ -29,7 +29,6 @@ public class RansomNotes {
     }
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String magazine[] =  "two times three is not four".split(" ");
 		String Notes[] = "two times two is four".split(" ");
 		checkMagazine(magazine, Notes);

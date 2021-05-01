@@ -25,7 +25,6 @@ public class ReRouting {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		List<Integer> l = new ArrayList<>();
 		l.add(2);
 		l.add(3);

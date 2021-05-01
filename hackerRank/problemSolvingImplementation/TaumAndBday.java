@@ -26,7 +26,6 @@ public class TaumAndBday {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(taumBday(27984, 1402, 619246, 615589, 247954));
 
 	}

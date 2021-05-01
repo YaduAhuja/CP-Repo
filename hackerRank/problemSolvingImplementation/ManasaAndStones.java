@@ -21,7 +21,6 @@ public class ManasaAndStones {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] d = stones(73, 25, 25);
 
 		for (int c : d) {

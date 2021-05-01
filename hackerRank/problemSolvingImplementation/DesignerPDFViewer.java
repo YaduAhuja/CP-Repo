@@ -17,7 +17,6 @@ public class DesignerPDFViewer {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] h = { 1, 3, 1, 3, 1, 4, 1, 3, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 }; // HEight of Letters
 
 		String w = "abc"; // Word for functions

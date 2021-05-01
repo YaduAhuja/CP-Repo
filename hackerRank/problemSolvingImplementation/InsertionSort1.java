@@ -33,7 +33,6 @@ public class InsertionSort1 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[] arr = { 3, 4, 7, 5, 6, 2 };
 		insertionSort1(arr.length, arr);
 	}

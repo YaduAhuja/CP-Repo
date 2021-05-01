@@ -16,7 +16,6 @@ public class AngryProfessor {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int k = 2;
 		int[] a = { -1, 0, 1, 2 };
 		System.out.println(angryProfessor(k, a));

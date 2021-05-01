@@ -36,7 +36,6 @@ public class CavityMap {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String d[] = { "179443854", "961621369", "164139922", "968633951", "812882578", "257829163", "812438597",
 				"176656233", "485773814" };
 		String res[] = cavityMap(d);

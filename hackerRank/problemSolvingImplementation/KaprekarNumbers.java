@@ -33,8 +33,6 @@ public class KaprekarNumbers {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 		kaprekarNumbers(1, 100);
 	}
 

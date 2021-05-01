@@ -18,7 +18,6 @@ public class FindDigits {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(findDigits(12));
 	}
 

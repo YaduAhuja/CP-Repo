@@ -10,7 +10,6 @@ public class RoadsAndLibraries {
 	static long ret;
 	static boolean visited[];
 	public static void main(String[] args) throws Exception {
-		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int t = Integer.parseInt(br.readLine());
 		long ret[] = new long[t];
