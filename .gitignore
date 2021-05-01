@@ -2,7 +2,7 @@
 /**/*.class
 
 # txt Files Excluder
-**/**/*.txt
+/**/*.txt
 
 #Python Files Excluder
-**/**/*.py 
+/**/*.py 
