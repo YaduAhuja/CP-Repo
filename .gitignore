@@ -1,6 +1,8 @@
 # class Files Excluder
 /**/*.class
 
-
 # txt Files Excluder
 **/**/*.txt
+
+#Python Files Excluder
+**/**/*.py 
