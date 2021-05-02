@@ -16,7 +16,6 @@ public class LibraryFine {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(libraryFine(2, 7, 1014, 2, 1, 1014));
 	}
 

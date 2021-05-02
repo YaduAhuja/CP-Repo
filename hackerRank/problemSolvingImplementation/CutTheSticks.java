@@ -37,7 +37,6 @@ public class CutTheSticks {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int arr[] = { 1, 2, 3, 4, 3, 3, 2, 1 };
 		int ret[] = cutTheSticks(arr);
 

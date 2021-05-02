@@ -37,7 +37,6 @@ public class BiggerIsGreater {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(biggerIsGreater("abdc"));// acdb
 		System.out.println(biggerIsGreater("dkhc"));// hcdk
 	}

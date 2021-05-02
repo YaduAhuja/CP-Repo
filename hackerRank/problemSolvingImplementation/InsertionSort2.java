@@ -27,7 +27,6 @@ public class InsertionSort2 {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int arr[] = { 3, 4, 7, 5, 6, 2, 1 };
 		insertionSort2(arr.length, arr);
 	}

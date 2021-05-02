@@ -20,7 +20,6 @@ public class BeautifulTriplets {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int d[] = { 2, 2, 3, 4, 5 };
 		System.out.println(beautifulTriplets(1, d));
 	}
