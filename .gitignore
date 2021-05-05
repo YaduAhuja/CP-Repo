@@ -6,3 +6,6 @@
 
 #Python Files Excluder
 /**/*.py 
+
+#vscode Config Excluder
+.vscode
