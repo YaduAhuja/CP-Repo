@@ -9,6 +9,7 @@ public class ChefAndFoodStreet {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int t = Integer.parseInt(br.readLine().trim());
 		StringBuilder sb = new StringBuilder();
+
 		for(int i = 0; i < t; i++){
 			int n = Integer.parseInt(br.readLine().trim());
 			int max = 0;

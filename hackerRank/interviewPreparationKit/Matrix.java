@@ -25,7 +25,7 @@ public class Matrix{
 	}
 
 	private static int minTime(List<List<Integer>> roads, List<Integer> machines){
-		Collections.sort(roads, (i,j) -> j.get(2) - i.get(2));
+		Collections.sort(roads, (i,j) -> j.get(2) -i.get(2));
 
 		Node graph[] = new Node[roads.size()+1];
 		for(int i = 0; i < graph.length; i++) graph[i] = new Node(i);
