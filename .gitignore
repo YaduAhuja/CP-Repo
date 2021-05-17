@@ -7,5 +7,11 @@
 #Python Files Excluder
 /**/*.py 
 
+#exe Files Excluder
+/**/*.exe
+
 #vscode Config Excluder
 .vscode
+
+.classpath
+.project
