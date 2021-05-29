@@ -13,6 +13,7 @@ public class  LeftRotation{
         for(int i=0; i<n;i++) {
             array[(i+n-d)%n] = scan.nextInt();
         }
+        scan.close();
         for(int i=0; i<n;i++) {
             System.out.print(array[i] + " ");
         }      

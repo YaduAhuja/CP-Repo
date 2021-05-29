@@ -17,6 +17,8 @@ public class TwoDimensionalArray {
                 multiDimArr[row][col] = sc.nextInt();
             }
         }
+
+        sc.close();
         System.out.println(Solve(multiDimArr));
     }
     static int Solve(int arr[][]){
