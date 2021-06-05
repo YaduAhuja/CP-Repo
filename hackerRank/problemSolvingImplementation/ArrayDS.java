@@ -2,6 +2,7 @@
  *  problem link:https://www.hackerrank.com/challenges/arrays-ds/problem
  */
 package hackerRank.problemSolvingImplementation;
+
 import java.util.*;
 
 public class ArrayDS {
@@ -11,8 +12,8 @@ public class ArrayDS {
         int n = Integer.parseInt(scan.nextLine());
         String[] array = scan.nextLine().split(" ");
         scan.close();
-        
-        while(--n >= 0){
+
+        while (--n >= 0) {
             System.out.print(array[n] + " ");
         }
     }
