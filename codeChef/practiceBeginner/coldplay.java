@@ -17,6 +17,7 @@ public class coldplay {
             int result = m / s;
             System.out.println(result);
         }
+		sc.close();
     }
     
 }
