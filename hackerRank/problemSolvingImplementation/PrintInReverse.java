@@ -51,13 +51,10 @@ public class PrintInReverse {
         }
     }
 
-    
     static void reversePrint(SinglyLinkedListNode head) {
-        
-if(head.next!=null) reversePrint(head.next);
+
+        if (head.next != null) reversePrint(head.next);
         System.out.println(head.data);
-
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);
@@ -85,4 +82,3 @@ if(head.next!=null) reversePrint(head.next);
         scanner.close();
     }
 }
-
