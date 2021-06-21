@@ -3,6 +3,7 @@
  *  Runtime : 0.07s
  *  Memory : 39.2 MB
  *  Faster than 83%, Memory usage beats 40%
+ *  Memory can be brought down by using the bitmask instead of Pair Class
  */
 package leetCode.algorithmsHard;
 
