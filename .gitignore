@@ -10,6 +10,9 @@
 #exe Files Excluder
 /**/*.exe
 
+#exe Files Excluder
+/**/*.out
+
 #vscode Config Excluder
 .vscode
 
