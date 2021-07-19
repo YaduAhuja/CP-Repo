@@ -21,7 +21,7 @@ public class WayTooLongWords {
         if (s.length() > 10) {
             StringBuilder sb = new StringBuilder();
             sb.append(s.charAt(0));
-            sb.append(Integer.toString(s.length() - 2));
+            sb.append(s.length() - 2);
             sb.append(s.charAt(s.length() - 1));
             return sb.toString();
         }
