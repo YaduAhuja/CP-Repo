@@ -1,3 +1,7 @@
+/**
+ * Problem Link : https://codeforces.com/contest/1530/problem/A
+ * Runtime : 0.186s
+ */
 package codeForces.round733;
 
 import java.io.BufferedReader;
