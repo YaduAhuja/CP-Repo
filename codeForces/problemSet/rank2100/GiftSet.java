@@ -30,16 +30,16 @@ public class GiftSet {
 		if(inp[2] < inp[3]) swap(inp);
 
 		int x = inp[0], y = inp[1], a = inp[2], b = inp[3];
+		
 		while(right-left > 1){
 			long mid = (left + right)/2;
 			long r = (long) Math.floor((x - b*mid) * 1.0 /(a-b));
 			long l = (long) Math.ceil((y - a*mid) * 1.0 /(b-a));
 			
-			if(Math.max(l, 0) <= Math.min(r, mid)){
+			if(Math.max(l, 0) <= Math.min(r, mid))
 				left = mid;
-			}else{
+			else
 				right = mid;
-			}
 		}
 
 		return (int)left;
