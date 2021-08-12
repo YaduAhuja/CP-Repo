@@ -42,7 +42,6 @@ public class InterestingStory {
 			else if(character[i] == 'd') Arrays.sort(temp, (t1,t2) -> t2.dCount - t1.dCount);
 			else Arrays.sort(temp, (t1,t2) -> t2.eCount-t1.eCount);
 
-			// System.out.println(character[i] +"   "+Arrays.toString(temp));
 			ret = max(getWords(temp, character[i]), ret);
 		}
 
