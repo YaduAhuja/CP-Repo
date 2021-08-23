@@ -2,7 +2,7 @@
  *  Problem Link : https://codeforces.com/contest/1559/problem/B
  *  Runtime : 0.202s
  */
-package codeForces.round738;
+package codeForces.problemSet.rank900;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
