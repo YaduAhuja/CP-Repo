@@ -4,7 +4,7 @@
  *
  *  Difference Between Hard and Easy Version is of Constraints
  */
-package codeForces.round738;
+package codeForces.problemSet.rank1400;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
