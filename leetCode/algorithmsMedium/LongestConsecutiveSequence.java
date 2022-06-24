@@ -4,8 +4,9 @@
  */
 package leetCode.algorithmsMedium;
 
-import java.util.HashMap;
 import static java.lang.Math.max;
+
+import java.util.HashMap;
 
 public class LongestConsecutiveSequence {
     public static void main(String[] args) throws Exception {

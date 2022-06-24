@@ -4,11 +4,11 @@
  */
 package codeForces.problemSet.rank1500;
 
+import static java.lang.Math.max;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-
-import static java.lang.Math.max;
 
 public class InterestingStory {
     public static void main(String args[]) throws Exception {
