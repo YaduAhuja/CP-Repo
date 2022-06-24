@@ -18,3 +18,7 @@
 
 .classpath
 .project
+
+# IO Files 
+input.txt
+output.txt
